@@ -15,10 +15,9 @@
 	background-color:white;
 	border:0.5px solid black;
 }
-span{
+.right{
 	background-color:white;
-	display:flex;
-	justify-content:flex-end;
+	text-align:right;
 }
 p{
 	background-color:white;
